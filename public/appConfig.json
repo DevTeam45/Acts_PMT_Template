@@ -1,0 +1,11 @@
+{
+    "API_CCMS_USER_MANAGEMENT_URL": "https://ccms.actschurch.co.za/Users",    
+    "API_CCMS_MEMBERS_MANAGEMENT_URL": "https://ccms.actschurch.co.za/Members",
+    "API_CCMS_DEPARTMENTS_MANAGEMENT_URL": "https://ccms.actschurch.co.za/Departments",
+    "API_CCMS_LOCATIONS_MANAGEMENT_URL": "https://ccms.actschurch.co.za/Locations",
+    "API_CCMS_SUPPLIERS_MANAGEMENT_URL": "https://ccms.actschurch.co.za/Suppliers",
+    "API_CCMS_PROCUREMENTS_MANAGEMENT_URL": "https://ccms.actschurch.co.za/Procurements",
+    "API_CCMS_TASK_MANAGEMENT_URL": "https://ccms.actschurch.co.za/Tasks",
+    "API_CCMS_FILE_MANAGEMENT_URL": "https://ccms.actschurch.co.za/Files",
+    "API_CCMS_COMMUNICATION_MANAGEMENT_URL": "https://ccms.actschurch.co.za/Communications"
+}

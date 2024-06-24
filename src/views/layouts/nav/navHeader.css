@@ -1,0 +1,20 @@
+/* Add this CSS to your stylesheet */
+
+.desktop-logo {
+    display: block;
+  }
+  
+  .mobile-logo {
+    display: none;
+  }
+  
+  /* Show the mobile logo and hide the desktop logo on smaller screens */
+  @media (max-width: 768px) {
+    .desktop-logo {
+      display: none;
+    }
+  
+    .mobile-logo {
+      display: block;
+    }
+  }
