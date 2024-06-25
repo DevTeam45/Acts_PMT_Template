@@ -60,3 +60,13 @@ export const getAllRequestApprovals = async () => {
         return error;
     }
 };
+
+// Component for "/api/RequestApproval/Requests" endpoint
+export const getUserRequestApprovals = async () => {
+    try {
+        const response = await api_procurements.get('/api/RequestApproval/Requests');
+        return response.data;
+    } catch (error) {
+        return error;
+    }
+};
